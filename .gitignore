@@ -1,0 +1,4 @@
+frames/
+*.log
+sholat-sample.bin
+__pycache__/
